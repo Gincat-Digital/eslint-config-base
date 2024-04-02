@@ -1,0 +1,29 @@
+{
+  "name": "@gincat-digital/eslint-config-base",
+  "version": "0.0.1",
+  "description": "Custom ESLint plugin created specifically for projects developed at Gincat Digital. It provides a set of predefined configurations for enforcing coding standards and best practices in JavaScript and TypeScript codebases.",
+  "author": "Braian Rosas <brdevok@outlook.com> (https://github.com/brdevok)",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+		"eslint-plugin",
+    "javascript",
+    "typescript",
+    "linter",    
+		"linting",
+    "config",
+    "prettier",
+    "code",
+    "code-quality",
+    "standard",
+    "development"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "@typescript-eslint/eslint-plugin": ">= 7",
+    "@typescript-eslint/parser": ">= 7",
+    "eslint-config-prettier": ">= 9.1",
+    "eslint-plugin-prettier": ">= 5.1"
+  }
+}
