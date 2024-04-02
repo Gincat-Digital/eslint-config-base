@@ -4,6 +4,13 @@
   "description": "Custom ESLint plugin created specifically for projects developed at Gincat Digital. It provides a set of predefined configurations for enforcing coding standards and best practices in JavaScript and TypeScript codebases.",
   "author": "Braian Rosas <brdevok@outlook.com> (https://github.com/brdevok)",
   "license": "MIT",
+	"bugs": {
+    "url": "https://github.com/Gincat-Digital/eslint-config-base/issues"
+  },
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/Gincat-Digital/eslint-config-base"
+  },
   "keywords": [
     "eslint",
 		"eslint-plugin",
